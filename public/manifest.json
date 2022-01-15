@@ -1,6 +1,7 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "name": "Track back",
+  "description": "This app can track your daily enpencess and incomes. Give you a analytics about it. Help you to make your budget",
+  "manifest_version": 3,
   "icons": [
     {
       "src": "favicon.ico",
